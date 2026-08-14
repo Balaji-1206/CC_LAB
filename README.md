@@ -190,21 +190,3 @@ CC_LAB/
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Aadhish23/CC_LAB.git
-   cd CC_LAB
-   ```
-
-2. **Navigate to an Experiment:**
-   Enter any experiment folder to access its dedicated `readme.md`, source files, configuration files, and setup instructions:
-   ```bash
-   cd "Exp 8"
-   docker build -t python-test .
-   docker run python-test
-   ```
-
-3. **Explore Individual Readmes:**
-   Each experiment folder contains a complete guide with step-by-step instructions, code listings, execution steps, and sample outputs.
